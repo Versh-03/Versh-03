@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Versh.  <br>I'm a student who likes building things that are clean, minimal, <br>and actually useful.  <br>Always learning, always experimenting,<br>
+Hi, I'm Versh.  <br>I'm a student who likes building things that are clean, minimal, <br>and actually useful.  <br>Always learning, always experimenting,<br> Carpe Diem!!! <br>
 
 
 # 💻 Tech Stack:
