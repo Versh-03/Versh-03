@@ -30,4 +30,4 @@ I'm a **Computer Science (AI-ML)** student with a passion for Data Structures & 
 - CLI To-Do List: A keyboard-driven command-line task manager optimized for terminal power users.
 - Eye Rest Timer: A Python/Tkinter desktop utility to manage screen time and eye health.
 
-[Connect with me on LinkedIn](www.linkedin.com/in/versh03) | [Portfolio](https://versh-portfolio.vercel.app/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/versh03) | [Portfolio](https://versh-portfolio.vercel.app/)
